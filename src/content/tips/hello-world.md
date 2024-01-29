@@ -1,9 +1,10 @@
 ---
 title: "Hello World"
-pubDate: 2024-05-07
+pubDate: 2024-05-08
 description: "Hello this is my first remmendation"
-image:
+image: "https://api.lorem.space/image/fashion?w=640&h=480&r=3027"
 tags: ["astro", "javascript"]
+layout: "../../layouts/Posts.astro"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla risus quam, efficitur eget lobortis sit amet, faucibus non lacus. Ut gravida nec ante in pellentesque. Mauris arcu arcu, molestie sed erat vitae, fringilla sollicitudin elit. Vestibulum augue erat, iaculis nec tortor sit amet, ullamcorper aliquet risus. Proin et malesuada tortor. Nulla eu nibh erat. Phasellus vitae porta eros.
